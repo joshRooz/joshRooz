@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 <h2 align="center">Bonjour</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshrooz&label=The%20loneliest%20number&color=0e75b6&style=flat" alt="joshrooz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshrooz&label=Click%20Refresh;%20I%20Dare%20You&color=0e75b6&style=flat" alt="joshrooz" /> </p>
 
 <br/><br/>
 
